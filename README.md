@@ -1,7 +1,7 @@
 # Hi, I'm Yaseen Shaik 👋
 
 🚀 Aspiring Full Stack Developer from Guntur  
-🎯 Currently learning: SQL, Python, JavaScript, React.js  
+🎯 Currently learning: SQL, Python, JavaScript. 
 💡 Dream Project: AI-based Smart Restaurant  
 📫 Reach me:  
 - 📧 Email: yaseen@example.com  
@@ -15,7 +15,6 @@
 - 🔸 Python
 - 🔸 SQL
 - 🔸 JavaScript
-- 🔸 React.js
 - 🔸 HTML & CSS
 - 🔸 Git & GitHub
 
